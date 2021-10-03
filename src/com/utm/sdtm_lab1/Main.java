@@ -1,6 +1,6 @@
-package com.utm.sdtm;
+package com.utm.sdtm_lab1;
 
-import com.utm.sdtm.entity.ZooManager;
+import com.utm.sdtm_lab1.entity.ZooManager;
 
 public class Main {
 

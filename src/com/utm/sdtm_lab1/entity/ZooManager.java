@@ -1,8 +1,7 @@
-package com.utm.sdtm.entity;
+package com.utm.sdtm_lab1.entity;
 
-import com.utm.sdtm.builder.AnimalBuilder;
-import com.utm.sdtm.builder.AnimalBuilderFactory;
-import com.utm.sdtm.builder.MonkeBuilder;
+import com.utm.sdtm_lab1.builder.AnimalBuilder;
+import com.utm.sdtm_lab1.builder.AnimalBuilderFactory;
 
 public class ZooManager {
 

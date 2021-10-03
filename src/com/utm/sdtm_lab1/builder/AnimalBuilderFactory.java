@@ -1,6 +1,6 @@
-package com.utm.sdtm.builder;
+package com.utm.sdtm_lab1.builder;
 
-import com.utm.sdtm.entity.AnimalType;
+import com.utm.sdtm_lab1.entity.AnimalType;
 
 public class AnimalBuilderFactory {
     public static AnimalBuilder generateAnimalBuilder(AnimalType animalType) {

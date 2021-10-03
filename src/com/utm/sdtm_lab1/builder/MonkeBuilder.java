@@ -1,6 +1,6 @@
-package com.utm.sdtm.builder;
+package com.utm.sdtm_lab1.builder;
 
-import com.utm.sdtm.entity.Animal;
+import com.utm.sdtm_lab1.entity.Animal;
 
 public class MonkeBuilder implements AnimalBuilder {
 

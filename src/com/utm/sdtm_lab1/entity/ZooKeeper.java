@@ -1,6 +1,6 @@
-package com.utm.sdtm.entity;
+package com.utm.sdtm_lab1.entity;
 
-import com.utm.sdtm.builder.AnimalBuilder;
+import com.utm.sdtm_lab1.builder.AnimalBuilder;
 
 public class ZooKeeper {
     private final AnimalBuilder animalBuilder;

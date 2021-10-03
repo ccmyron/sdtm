@@ -1,4 +1,4 @@
-package com.utm.sdtm.entity;
+package com.utm.sdtm_lab1.entity;
 
 public enum AnimalType {
     MONKE,
